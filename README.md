@@ -1,2 +1,4 @@
-# Fart_detector_CNN
-Schematics, source code and neural network models for creating a fart detector
+# Fart Detector
+Схемы, исходный код и нейросетевые модели для создания детектора пердежа.
+
+Код будет скоро доступен!
