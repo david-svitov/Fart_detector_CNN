@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FartDetector</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+</resources>
